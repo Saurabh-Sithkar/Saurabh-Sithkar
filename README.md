@@ -1,6 +1,7 @@
-### Hi there 👋
+
 
 <!--
+### Hi there 👋
 **Saurabh-Sithkar/Saurabh-Sithkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,14 +17,12 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center"> Hi there, I am Saurabh Kumar👋</h1>
-- 🌱 I’m currently learning <strong>DSA & MERN Stack</strong>
-- 💬 Ask me about <strong>DSA,C++,HTML,CSS,JavaScript</strong>
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/saurabh-kumar-775065286/" target="_blank"> Saurabh Kumar </a>
-- 😄 Pronouns: <strong>Sithkar</strong>
+- 🌱 I’m currently learning <strong>DSA & MERN Stack</strong><br>
+- 💬 Ask me about <strong>DSA,C++,HTML,CSS,JavaScript</strong><br>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/saurabh-kumar-775065286/" target="_blank"> Saurabh Kumar </a><br>
+- 😄 Pronouns: <strong>Sithkar</strong><br>
 - ⚡ Fun fact:<p>"Watch as my fingers waltz across the keyboard, turning ideas into code with the finesse of a maestro."</p>
 
-<p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username-Saurabh-Sithkar&show_icons=true" alt="SaurabhSithkar"></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saurabh-kumar-775065286/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30"></a>
