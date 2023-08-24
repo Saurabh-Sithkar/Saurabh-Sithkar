@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact:<p>"Watch as my fingers waltz across the keyboard, turning ideas into code with the finesse of a maestro."</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saurabh-Sithkar&show_icons=ture" alt="Sithkar"></p>
+<img src="https://github-readme-stats.vercel.app/api?username=Saurabh-Sithkar&show_icons=true" alt="Sithkar">
+
 
 
 
