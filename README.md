@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center"> Hi there, I am Saurabh Kumar👋</h1>
 - 🌱 I’m currently learning <strong>DSA & MERN Stack</strong><br>
 - 💬 Ask me about <strong>DSA,C++,HTML,CSS,JavaScript</strong><br>
-- 📫 How to reach me: <a " target="_blank"> Saurabh Kumar </a><br>
+<!-- - 📫 How to reach me: <a " target="_blank"> Saurabh Kumar </a><br> -->
 - 😄 Pronouns: <strong>Sithkar</strong><br>
 - ⚡ Fun fact:<p>"Watch as my fingers waltz across the keyboard, turning ideas into code with the finesse of a maestro."</p>
 
