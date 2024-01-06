@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <a href="" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" color="blue"></a>
+  <a href="" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" color="blue">linkedin.com/in/saurabh-kumar-58a689294</a>
