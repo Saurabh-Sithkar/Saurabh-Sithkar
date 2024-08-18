@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/@ssithkar" target="blank"><img src="https://img.shields.io/twitter/follow/@ssithkar?logo=twitter&style=for-the-badge" alt="@ssithkar" /></a> </p>
 
-- 🌱 I’m currently learning **MEARN,C++,JAVA,DSA,CP**
+- 🌱 I’m currently learning **MERN,C++,JAVA,DSA,CP**
 
-- 💬 Ask me about **DSA,C++,MEAR**
+- 💬 Ask me about **DSA,C++,MERN**
 
 - 📫 How to reach me **saurabhkumar754505@gmail.com**
 
