@@ -1,6 +1,6 @@
 ![logo](https://github.com/Saurabh-Sithkar/Saurabh-Sithkar/blob/main/Github%20Banner1.png)
 <h1 align="center">Hi 👋, I'm Saurabh Sithkar</h1>
-<h3 align="center">A passionate web developer & teacher from India</h3>
+<h3 align="center">A young-dumb 🤓 developer from India</h3>
 
 <img align="right" alt="coding" width="300" src="https://imgs.search.brave.com/CS7Dy1vS4N5KEOt9huJH0pU9USEccT7O2vqCkB1BSc4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTEuZ2lwaHkuY29t/L21lZGlhLzBsR2Qy/T1hYSGU0dEZoYjdX/aC9naXBoeS5naWY_/Y2lkPTc5MGI3NjEx/NTJ3aW5xcTNkc2k2/aWRnaXptbXhxbjlj/NHM5ejNlc2prN3pp/ZW0yOCZlcD12MV9n/aWZzX3NlYXJjaCZy/aWQ9Z2lwaHkuZ2lm/JmN0PWc.gif">
 
