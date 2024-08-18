@@ -1,4 +1,4 @@
-![logo](https://github.com/Saurabh-Sithkar/Saurabh-Sithkar/blob/main/Github%20Banner1.png)
+![logo](https://github.com/Saurabh-Sithkar/Saurabh-Sithkar/blob/main/Gbanner1.png)
 <h1 align="center">Hi 👋, I'm Saurabh Sithkar</h1>
 <h3 align="center">A young-dumb 🤓 developer from India</h3>
 
