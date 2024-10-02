@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **saurabhkumar754505@gmail.com**
 
-- ⚡ Fun fact **I am funny😊**
+- ⚡ Fun fact **ERROR 404:No fun fact found**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
